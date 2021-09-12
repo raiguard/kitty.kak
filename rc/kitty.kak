@@ -41,6 +41,3 @@ The program passed as argument will be executed in the new terminal' \
     }
 }
 
-define-command goto-layout-test %sh{
-    kitty @ goto-layout stack
-}
